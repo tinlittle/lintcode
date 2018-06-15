@@ -1,8 +1,8 @@
 # Problem statement
-  rotate to the left
+  Prime Number of Set Bits in Binary Representation
 
 # Solution
-  observe 32 bit unsigned n rotate left k bits is n < k | n > 32 - k
+  Build a table of pop counts with variable # of columns 
   
 # Lessons
 
